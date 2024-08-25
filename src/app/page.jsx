@@ -103,7 +103,7 @@ export default function Home() {
           <p className="flex ml-[700px] mr-[200px] mt-[-40px] text-white">
             {" "}
             Creating user-friendly and visually appealing websites that bring
-            your ideas to life. Let's build your perfect online presence
+            your ideas to life. Lets build your perfect online presence
             together.
           </p>
         </div>
@@ -116,7 +116,7 @@ export default function Home() {
           <p className="flex ml-[700px] mr-[200px] mt-[-40px] text-white">
             {" "}
             Building custom WordPress websites that are easy to use and look
-            great. Let's create your perfect online presence together.
+            great. Lets create your perfect online presence together.
           </p>
         </div>
         <hr></hr>
@@ -127,7 +127,7 @@ export default function Home() {
           </h1>
           <p className="flex ml-[700px] mr-[200px] mt-[-40px] text-white">
             Designing intuitive and engaging user interfaces that enhance user
-            experience. Let's make your digital products easy and enjoyable to
+            experience. Lets make your digital products easy and enjoyable to
             use.
           </p>
         </div>
@@ -140,7 +140,7 @@ export default function Home() {
           <p className="flex ml-[700px] mr-[200px] mt-[-40px] text-white">
             {" "}
             Creating eye-catching graphics that communicate your brand's
-            message. Let's bring your ideas to life with great design.
+            message. Lets bring your ideas to life with great design.
           </p>
         </div>
         <hr></hr>
